@@ -92,4 +92,4 @@ AI-ML codes repo for Citi Bank training on Deep Learning Basics.
 2. What if we don't use TensorFlow at all then what happens?
 3. How tensors help us in model building in machine learning?
 4. What is Keras?
-5. Difference between TensorFlow and Keras?"
+5. Difference between TensorFlow and Keras?
