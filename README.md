@@ -1,6 +1,6 @@
 ![image](https://github.com/anurag-chiplunkar/Citi-Deep-Learning-Basics/assets/59001358/a460d827-6ce3-45f0-b023-a948b1eee098)
 
-# Citi-Deep Learning Basics
+# Citi Bank Training - Deep Learning Basics
 AI-ML codes repo for Citi Bank training on Deep Learning Basics.
 
 **Introduction to Deep Learning**
